@@ -1,0 +1,33 @@
+.card{
+    -webkit-box-shadow: 0 0 5px 1px rgba(0, 0, 0, .15);
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, .15);
+}
+
+.property_meta {
+  
+  padding: 3px;
+  text-align: center;
+  background: #1DA1F2;
+  margin: -20px -20px 10px -20px;
+  color:#fff;
+}
+
+.featured{
+    position: absolute;
+    color: #fff;
+    background-color: #ff0000;
+    margin: 10px 0 0 0;
+    padding: 5px 5px 5px 5px;
+}
+
+.tag{
+  position: absolute;
+  color: #fff;
+  background-color: #1DA1F2;;
+  margin: 10px 0 0 74%;
+  padding: 5px 5px 5px 5px;
+}
+
+.card-title{
+  font-weight: bold;
+}

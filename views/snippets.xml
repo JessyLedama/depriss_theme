@@ -1,0 +1,39 @@
+<odoo>
+    <data>
+
+        <!-- Example Snippet 1 -->
+        <record id="snippet_example_1" model="ir.ui.view">
+            <field name="name">Snippet Example 1</field>
+            <field name="model">website.page</field>
+            <field name="type">qweb</field>
+            <field name="arch" type="xml">
+                <template>
+                    <t t-name="snippet-example1">
+                        <div class="snippet-example1">
+                            <!-- Add your snippet HTML structure here -->
+                            <p>Example Snippet 1</p>
+                        </div>
+                    </t>
+                </template>
+            </field>
+        </record>
+
+        <!-- Example Snippet 2 -->
+        <record id="snippet_example_2" model="ir.ui.view">
+            <field name="name">Snippet Example 2</field>
+            <field name="model">website.page</field>
+            <field name="type">qweb</field>
+            <field name="arch" type="xml">
+                <template>
+                    <t t-name="snippet-example2">
+                        <div class="snippet-example2">
+                            <!-- Add your snippet HTML structure here -->
+                            <p>Example Snippet 2</p>
+                        </div>
+                    </t>
+                </template>
+            </field>
+        </record>
+
+    </data>
+</odoo>

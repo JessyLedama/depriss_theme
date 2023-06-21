@@ -1,0 +1,85 @@
+<odoo>
+    
+    <template id="depriss_properties" inherit_id="website.snippets" name="Properties">
+        <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
+            <t t-snippet="depriss_theme.properties"/>
+        </xpath>
+    </template>
+    <template id="properties" name="Properties">
+        <link rel="stylesheet" href="/depriss_theme/static/src/css/styles.css"/>
+        <section class="main" id="pink">
+            <!-- Section blank starts here -->
+            <section>
+                <div class="container">
+                    <!-- PAGE TITLE -->
+                    <div class="row">
+                        <div class="card col-sm-4">
+                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                            <span class="featured"> Featured </span>
+                            <span class="tag"> For Sale </span>
+                            
+                            <div class="card-body">
+                                <div class="property_meta">
+                                    <span class="fa fa-object-group"> 530 sq Feet </span>
+                                    <span class="fa fa-bed"> 2 </span>
+                                    <span class="fa fa-bath"> 1 Bathroom </span>
+                                </div>
+                                
+                                <h4 class="card-title">John Doe</h4>
+                                
+                                <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                            </div>
+                        </div>
+
+                        <div class="card col-sm-4">
+                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                            
+                            <span class="featured"> Featured </span>
+                            
+                            <span class="tag"> For Sale </span>
+                            
+                            <div class="card-body">
+                                <div class="property_meta">
+                                    <span class="fa fa-object-group"> 530 sq feet </span>
+                                    <span class="fa fa-bed"> 2 </span>
+                                    <span class="fa fa-bath"> 1 Bathroom </span>
+                                </div>
+                            
+                                <h4 class="card-title">John Doe</h4>
+                            
+                                <p class="card-text">
+                                    Some example text some example text. John Doe is an architect and engineer
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="card col-sm-4">
+                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                            
+                            <span class="featured"> Featured </span>
+                            
+                            <span class="tag"> For Sale </span>
+                            
+                            <div class="card-body">
+                                <div class="property_meta">
+                                    <span class="fa fa-object-group">
+                                        530 sq Feet
+                                    </span>
+
+                                    <span class="fa fa-bed"> 2 </span>
+                                    <span class="fa fa-bath"> 1 Bathroom </span>
+                                </div>
+                            
+                                <h4 class="card-title">John Doe</h4>
+                            
+                                <p class="card-text">
+                                    Some example text some example text. John Doe is an architect and engineer
+                                </p>
+                            </div>
+                        </div>
+                    </div>                        
+                </div>
+            </section>
+        </section>
+    </template>
+</odoo>
