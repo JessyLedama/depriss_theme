@@ -11,7 +11,6 @@
     'data': [
         'views/assets.xml',
         'views/snippets.xml',
-        'views/snippets/blank.xml',
         'views/snippets/properties.xml',
     ],
     'installable': True,
