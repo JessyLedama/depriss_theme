@@ -13,10 +13,18 @@
                 <div class="container">
                     <!-- PAGE TITLE -->
                     <div class="row">
-                        <div class="card col-sm-4">
-                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
-                            <span class="featured"> Featured </span>
-                            <span class="tag"> For Sale </span>
+                        <div class="property-card col-sm-4">
+                            <img class="img-responsive image" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                            <div class="middle">
+                                <div class="text">
+                                    <a href="#">View Detail</a>
+                                </div>
+                            </div>
+
+                            <div class="top-section">
+                                <span class="featured"> Featured </span>
+                                <span class="tag"> For Sale </span>
+                            </div>
                             
                             <div class="card-body">
                                 <div class="property_meta">
@@ -31,12 +39,19 @@
                             </div>
                         </div>
 
-                        <div class="card col-sm-4">
-                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                        <div class="property-card col-sm-4">
+                            <img class="img-responsive image" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+
+                            <div class="middle">
+                                <div class="text">
+                                    <a href="#">View Detail</a>
+                                </div>
+                            </div>
                             
-                            <span class="featured"> Featured </span>
-                            
-                            <span class="tag"> For Sale </span>
+                            <div class="top-section">
+                                <span class="featured"> Featured </span>
+                                <span class="tag"> For Sale </span>
+                            </div>
                             
                             <div class="card-body">
                                 <div class="property_meta">
@@ -53,12 +68,19 @@
                             </div>
                         </div>
                         
-                        <div class="card col-sm-4">
-                            <img class="img-responsive" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+                        <div class="property-card col-sm-4">
+                            <img class="img-responsive image" src="/depriss_theme/static/src/img/property-listing-1.jpg" alt="Card image" style="width:100%"/>
+
+                            <div class="middle">
+                                <div class="text">
+                                    <a href="#">View Detail</a>
+                                </div>
+                            </div>
                             
-                            <span class="featured"> Featured </span>
-                            
-                            <span class="tag"> For Sale </span>
+                            <div class="top-section">
+                                <span class="featured"> Featured </span>
+                                <span class="tag"> For Sale </span>
+                            </div>
                             
                             <div class="card-body">
                                 <div class="property_meta">
