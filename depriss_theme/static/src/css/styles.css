@@ -1,13 +1,13 @@
-.property_card{
+.property-card{
     -webkit-box-shadow: 0 0 5px 1px rgba(0, 0, 0, .15);
     box-shadow: 0 0 5px 1px rgba(0, 0, 0, .15);
 }
 
-.property_meta {
+.property-meta {
   padding: 3px;
   text-align: center;
   background: #1DA1F2;
-  margin: -20px -17px 10px -18px;
+  margin: -20px -20px 10px -20px;
   color:#fff;
 }
 
