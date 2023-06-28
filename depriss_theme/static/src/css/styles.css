@@ -35,9 +35,7 @@
   font-weight: bold;
 }
 
-.container {
-  position: relative;
-  width: 50%;
+.property-container{
   padding-top: 30px;
 }
 
