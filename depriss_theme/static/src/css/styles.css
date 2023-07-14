@@ -17,18 +17,16 @@
   color: #fff;
 }
 
-.featured{
+/* .featured{
   background-color: #ff0000;
   margin: 0 0 0 5%;
   padding: 5px 5px 5px 5px;
-}
+} */
 
 .tag{
-  background-color: #1DA1F2;;
+  background-color: #ff0000;
   padding: 5px 5px 5px 5px;
-  position: absolute;
-  right: -385%;
-  top: -3px;
+  margin: 0 0 0 275px;
 }
 
 .card-title{

@@ -10,7 +10,7 @@
         <section class="main" id="pink">
             <!-- Section blank starts here -->
             <section>
-                <div class="container property-container">
+                <div class="container">
                     <!-- PAGE TITLE -->
                     <div class="row">
                         <div class="property-card col-sm-4">
@@ -22,12 +22,12 @@
                             </div>
 
                             <div class="top-section">
-                                <span class="featured"> Featured </span>
+                                <!-- <span class="featured"> Featured </span> -->
                                 <span class="tag"> For Sale </span>
                             </div>
                             
                             <div class="card-body">
-                                <div class="property-meta">
+                                <div class="property_meta">
                                     <span class="fa fa-object-group"> 530 sq Feet </span>
                                     <span class="fa fa-bed"> 2 </span>
                                     <span class="fa fa-bath"> 1 Bathroom </span>
@@ -49,12 +49,12 @@
                             </div>
                             
                             <div class="top-section">
-                                <span class="featured"> Featured </span>
+                                <!-- <span class="featured"> Featured </span> -->
                                 <span class="tag"> For Sale </span>
                             </div>
                             
                             <div class="card-body">
-                                <div class="property-meta">
+                                <div class="property_meta">
                                     <span class="fa fa-object-group"> 530 sq feet </span>
                                     <span class="fa fa-bed"> 2 </span>
                                     <span class="fa fa-bath"> 1 Bathroom </span>
@@ -78,12 +78,12 @@
                             </div>
                             
                             <div class="top-section">
-                                <span class="featured"> Featured </span>
+                                <!-- <span class="featured"> Featured </span> -->
                                 <span class="tag"> For Sale </span>
                             </div>
                             
                             <div class="card-body">
-                                <div class="property-meta">
+                                <div class="property_meta">
                                     <span class="fa fa-object-group">
                                         530 sq Feet
                                     </span>
